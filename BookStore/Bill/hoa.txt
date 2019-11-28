@@ -1,0 +1,16 @@
+STT  SL   Ma   Ten                 NXB                           TacGia                                  Gia
+1    5    S1   Java Basic          MIT                           John Migy                               100000
+Tong tien: 500000
+Thoi gian mua: Thu Nov 28 21:34:07 2019
+STT  SL   Ma   Ten                 NXB                           TacGia                                  Gia
+1    1    S1   Java Basic          MIT                           John Migy                               100000
+Tong tien: 100000
+Thoi gian mua: Thu Nov 28 21:55:50 2019
+STT  SL   Ma   Ten                 NXB                           TacGia                                  Gia
+1    5    S1   Java Basic          MIT                           John Migy                               100000
+Tong tien: 400000
+Thoi gian mua: Thu Nov 28 21:59:51 2019
+STT  SL   Ma   Ten                 NXB                           TacGia                                  Gia
+1    3    S1   Java Basic          MIT                           John Migy                               100000
+Tong tien: 240000
+Thoi gian mua: Thu Nov 28 22:03:22 2019

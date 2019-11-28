@@ -1,0 +1,8 @@
+From: AD-Hoa
+Message: test lan 1
+Time: Thu Nov 28 21:29:58 2019
+
+From: AD-Hoa
+Message: test gui nhieu nguoi
+Time: Thu Nov 28 21:32:07 2019
+
